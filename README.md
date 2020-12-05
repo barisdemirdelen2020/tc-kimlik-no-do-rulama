@@ -9,4 +9,3 @@ if ($validation == true){
 } else {
    echo 'Başarısız';
 }
-```sh
