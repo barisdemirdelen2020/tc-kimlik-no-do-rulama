@@ -1,8 +1,6 @@
 <?PHP
 /**
  * T.C. Kimlik No Doğrulama
- * @category   CategoryName
- * @package    PackageName
  * @author     Barış Demirdelen <b.demirdelen@yahoo.com>
  */
 
