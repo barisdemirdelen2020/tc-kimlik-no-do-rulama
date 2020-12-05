@@ -1,5 +1,4 @@
-# tc-kimlik-no-do-rulama
-Barış Demirdelen - T.C. Kimlik No Doğrulama Sistemi
+# Barış Demirdelen - T.C. Kimlik No Doğrulama Sistemi
 
 #Kullanım
 ```sh
